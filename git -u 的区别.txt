@@ -1,4 +1,5 @@
 git push origin与git push -u origin master的区别
+
 $ git push origin
 
 上面命令表示，将当前分支推送到origin主机的对应分支。 
