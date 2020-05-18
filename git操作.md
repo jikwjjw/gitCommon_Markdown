@@ -16,3 +16,4 @@
 + git branch -a : 查看远程所有分支
 + git branch ：查看本地所有分支
 -------------------------------------
++ git push origin --delete xxx ：删除远程分支
