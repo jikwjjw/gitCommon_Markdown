@@ -20,6 +20,6 @@
 -------------------------------------
 + git push origin --delete xxx ：删除远程分支
 -------------------------------------
-+ git checkout Tree： 切换分支
-+ git pull：将分支代码拉下来
++ git checkout Tree origin/Tree： 切换分支，并与指定的远程分支关联起来
++ git pull：将分支代码拉下来(不成功先git fetch)
 
